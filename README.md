@@ -2,6 +2,14 @@
 
 I was on Live Coding Happy Hour talking about [Overriding the Next UI Theme](https://www.youtube.com/watch?v=zuITYAOBlUU)
 
+[DevMPV 2022](https://developer.servicenow.com/blog.do?p=/post/2022-mvp-announcement/)
+
+Knowledge 22 session [Integrations for Fun and Profit](https://knowledge.servicenow.com/lasvegas/sessiondetail?sessionId=1652809842881001NXoe)
+
+[DevMVP 2021](https://developer.servicenow.com/blog.do?p=/post/2021-developer-mvp-announcement/)
+
+Knowledge 21 session [Script Includes: What are they and why should I care?](https://events.servicenow.com/widget/servicenow/knowledge2021/library/session/1612301555107001YVuE#1617832086855001eNVb)
+
 ## Share Items I made (or co-developed)
 
 [LCHH - Overriding the Next UI Theme - Featuring Blimey](https://developer.servicenow.com/connect.do#!/share/contents/6592535_lchh_overriding_the_next_ui_theme_featuring_blimey?t=PRODUCT_DETAILS)
