@@ -4,7 +4,7 @@ I was on Live Coding Happy Hour talking about [Overriding the Next UI Theme](htt
 
 [DevMPV 2022](https://developer.servicenow.com/blog.do?p=/post/2022-mvp-announcement/)
 
-Knowledge 22 session [Integrations for Fun and Profit](https://knowledge.servicenow.com/lasvegas/sessiondetail?sessionId=1652809842881001NXoe)
+Knowledge 22 session [Integrations for Fun and Profit](https://www.youtube.com/watch?v=7M2hZvw5AJQ)
 
 [DevMVP 2021](https://developer.servicenow.com/blog.do?p=/post/2021-developer-mvp-announcement/)
 
