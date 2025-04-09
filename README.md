@@ -1,5 +1,7 @@
 # ServiceNow-stuff
 
+I have a blog [snwizard.com](snwizard.com) where I post useful tools that I have made (including a script to [update all of your store apps automatically](https://snwizard.com/update-apps) and some very deep dives into NEUI themes and how they work.
+
 I was on Live Coding Happy Hour talking about [Overriding the Next UI Theme](https://www.youtube.com/watch?v=zuITYAOBlUU)
 
 [DevMPV 2022](https://developer.servicenow.com/blog.do?p=/post/2022-mvp-announcement/)
